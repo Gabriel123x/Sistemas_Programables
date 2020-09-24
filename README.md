@@ -1,3 +1,4 @@
+![logo](../img/logo.jpg)
 # Ingenieria en sistemas computacionales
 # Materia: Sistemas_Programables
 # Maestro: Jaime Leonardo Enriquez Alvarez
