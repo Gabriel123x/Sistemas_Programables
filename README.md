@@ -1,6 +1,6 @@
 # Ingenieria en sistemas computacionales
 # Sistemas_Programables
-#Equipo verde
+# Equipo verde
 ## Acevedo Ensiso Pedro Gabriel 17211496
 1. blog: Aqui se guardan los trabajos y actividades
 2. docs: Documentos informativos
