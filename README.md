@@ -11,7 +11,7 @@
 
 [C1.1_PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C1.1_PedroGabrielAcevedoEnsiso_EquipoVerde.md)
 
-[C1.2_PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/blog/C1.2_PedroGabrielAcevedoEnsiso_Verde.pdf)
+[C1.2_PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/blog/C1.2_PedroGabrielAcevedoEnsiso_Verde.md)
 
 2. docs: Documentos informativos
 3. img: Imagenes utilizadas en los documentos y trabajos
