@@ -1,7 +1,7 @@
 # Ingenieria en sistemas computacionales
 # Materia: Sistemas_Programables
 # Maestro: Jaime Leonardo Enriquez Alvarez
-# Equipo verde
+# Equipo: Verde
 ## Acevedo Ensiso Pedro Gabriel 17211496
 1. blog: Aqui se guardan los trabajos y actividades.
 
