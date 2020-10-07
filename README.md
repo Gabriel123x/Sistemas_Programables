@@ -18,6 +18,8 @@
 
 + [C1.4 PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C1.4_PedroGabrielAcevedoEnsiso_EquipoVerde.md)
 
++ [C1.5 PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C1.5_PedroGabrielAcevedoEnsiso_EquipoVerde.md)
+
 + [A1.2 PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/A1.2_PedroGabrielAcevedoEnsiso_EquipoVerde.md)
 
 2. docs: Documentos informativos
