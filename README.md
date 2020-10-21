@@ -30,5 +30,7 @@
 
 + [C2.2 PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C2.2_PedroGabrielacevedoEnsiso_EquipoVerde.md)
 
++ [C2.3 PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C2.3_PedroGabrielacevedoEnsiso_EquipoVerde.md)
+
 2. docs: Documentos informativos
 3. img: Imagenes utilizadas en los documentos y trabajos
