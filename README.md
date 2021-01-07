@@ -66,5 +66,7 @@
 
 + [C5.1_PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C5.1_PedroGabrielAcevedoEnsiso_EqupoVerde.md)
 
++ [C5.2_PedroGabrielAcevedoEnsiso_EquipoVerde.md](blog/C5.2_PedroGabrielAcevedoEnsiso_EqupoVerde.md)
+
 2. docs: Documentos informativos
 3. img: Imagenes utilizadas en los documentos y trabajos
